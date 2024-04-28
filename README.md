@@ -9,3 +9,7 @@ Bob 查词，支持通过Alfred 触发单词查词、图片OCR 和接入OCR翻�
 
 ## PDF Compress.alfredworkflow
 PDF压缩，自动触发PDF Expert图片压缩
+
+## 详细介绍参考
+
+[我的Alfred Workflow](https://fancylinq.netlify.app/posts/my-alfred-workflow/)
